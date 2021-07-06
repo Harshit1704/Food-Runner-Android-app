@@ -33,7 +33,7 @@ f. Log out
 <li> Download the apk file on your android phone and run</li>
 </ul>
 
-## Demo of the app :
+## Demo Video of the app :
 <a href="https://drive.google.com/file/d/1l0BIjsB4J4Oy7UxLH0nHJaIIMCqtoMmV/view?usp=sharing" title="Food Runner Android app">Google Drive Link of the Video</a>
 
 ## Screenshots of app :
